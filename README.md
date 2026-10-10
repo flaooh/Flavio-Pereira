@@ -5,8 +5,8 @@
 ---
 
 ### 🔭 Atualmente estudando...
-- 💡 Sou estudante de técnico em eletrônica
-- 💻 Estudo linguagem de programação
+- 💡 faço técnico em eletrônica
+- 💻 tenho noção de lógica programação
 
 ---
 
