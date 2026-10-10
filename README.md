@@ -7,7 +7,6 @@
 ### 🔭 Atualmente estudando...
 - 💡 Sou estudante de técnico em eletrônica
 - 💻 Estudo linguagem de programação
-- 📖 Pretendo futuramente estudar inglês básico — focado em leitura técnica e documentações
 
 ---
 
@@ -15,6 +14,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" height="40" alt="AArch64 logo" />
 </div>
 
 ---
@@ -22,6 +22,6 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaooh&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaooh&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flaooh&show_icons=true&bg_color=0d1117&text_color=58a6ff&icon_color=238636&border_color=238636&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaooh&layout=compact&bg_color=0d1117&text_color=58a6ff&icon_color=238636&border_color=238636&hide_border=true" alt="Top Languages" />
 </div>
