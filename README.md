@@ -8,7 +8,7 @@
 ### 🔭 Atualmente estudando...
 - 💡 faço técnico em eletrônica
 - 💻 tenho noção de lógica programação
-  
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
