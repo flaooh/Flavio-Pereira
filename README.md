@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.postimg.cc/pTbJ6S49/flavio-pixel-art.png" width="150px" alt="Minha Pixel Art" />
   <h1 style="font-size: 28px; margin: 10px 0;">Olá, eu sou o Flávio Pereira! 👋</h1>
 </div>
 
@@ -15,7 +14,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" height="40" alt="AArch64 logo" />
 </div>
 
 ---
