@@ -27,7 +27,21 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
 
+  <!-- Cards de Estatísticas e Linguagens Mais Usadas -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical&hide_border=false&langs_count=7" alt="Top Langs" width="48%" />
+  </p>
+
+  <!-- Card de Sequência de Contribuições (Streak) -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=radical&hide_border=false" alt="GitHub Streak" width="98%" />
+  </p>
+
+  <!-- Troféus do GitHub para dar um estilo de conquista -->
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-AQUI&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophies" width="100%" />
+  </p>
+
+</div>
