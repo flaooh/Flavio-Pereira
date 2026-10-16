@@ -13,8 +13,16 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <i class="devicon-aarch64-plain colorido"></i>
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+  <i class="devicon-aarch64-plain colorido"></i>
+  <i class="devicon-aarch64-plain "></i>
 </div>
 
 ---
@@ -22,6 +30,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaooh&show_icons=true&bg_color=0d1117&text_color=58a6ff&icon_color=238636&border_color=238636&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaooh&layout=compact&bg_color=0d1117&text_color=58a6ff&icon_color=238636&border_color=238636&hide_border=true" alt="Top Languages" />
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
+  <p>Get dynamically generated GitHub stats on your READMEs!</p>
 </div>
