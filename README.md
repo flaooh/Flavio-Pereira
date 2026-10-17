@@ -39,8 +39,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=flaooh&theme=radical&hide_border=false" alt="GitHub Streak" width="98%" />
   </p>
 
-  <!-- Estatísticas Detalhadas -->
-  <h3>* GitHub Stats *</h3>
+  <!-- Título Estiloso -->
+  <h3>⚡ Atividade & Métricas ⚡</h3>
   <br>
 
 </div>
